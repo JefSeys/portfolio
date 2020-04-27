@@ -355,9 +355,18 @@ footer {
     }
 }
 
+.profiel{
+    margin-left: 20px;
+}
+
+.profiel-text{
+    margin-top: 50px;;
+}
+
 #about {
     padding: 75px 15px;
-    border-bottom: 1px solid #dcd9d9
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center;
 }
 
 #about h2 {
